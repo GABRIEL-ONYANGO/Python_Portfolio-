@@ -155,4 +155,4 @@ pip install numpy pandas scikit-learn matplotlib seaborn openpyxl jupyter
 
 ## License
 
-Add a license of your choice (e.g. MIT) before publishing.
+For educational purposes only.
