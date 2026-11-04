@@ -216,4 +216,4 @@ This is an educational machine-learning example, not a validated lending decisio
 
 ## License
 
-Add a license of your choice (e.g. MIT) before publishing.
+For educational purposes only.
